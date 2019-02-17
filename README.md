@@ -1,6 +1,8 @@
 # テクスチャ
 テクスチャ画像を読み込んでみます
 
+https://webglstudy.github.io/04_texture/
+
 ![結果画像](result.png)
 
 # 課題
